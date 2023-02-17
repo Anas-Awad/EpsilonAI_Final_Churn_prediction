@@ -1,4 +1,4 @@
-# EpsilonAI_Final_project_name
+# EpsilonAI_Final_Churn_Prediction
 ## this project is the final project of Data Science Diploma At EpsilonAI Institue
 ## EpsilonAI profiles :
 - facebook : https://www.facebook.com/Epsilonaieg
