@@ -9,18 +9,18 @@
 ## Data Science Diploma : https://www.epsiloneg.com/course/cdsp/
 
 ## project Description 
-one of the most popular problems nowadays that machine learning solves  is churn analysis and prediction so in this project we have focused on analysing data set that is about churned users and non churned users for internet service provider company.
-- taking steps by starting to analyse the dataset starting from univariate analysis on each feature and then making some bi/mutlivariate analysis seeing the relation between features with each others and between features and target to know wether is there any key factors that afffect user loyalty and make him leave the company,
-so by doing this analysis helps the decision makers to take the right decision that may keeps their client's loyalty,
-as a final step starting to prepare the data for the modeling phase and lastly choosing the best model for predicting if the new customers will churn or not.
-- using statistical methods to analyse and extracting information from the dataset like (features distributions, centeral tendancy, measure of despersion and many, boxplots and many other statistical techniques finishing with classical machine learning classification models and deploy it to web app for graphical using.
-- tools that i have used are ( Pandas, Numpy, Matplotlib, re, warnings, plotly, seaborn, sklearn, category_encoders, flask, heroku, power bi)
+- According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
+This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row
+in the data provides relavant information about the patient.
+- using statistical methods to analyse and extracting information from the dataset like (features distributions, centeral tendancy, measure of despersion and many boxplots and many other statistical techniques finishing with classical machine learning classification models and deploy it to web app for graphical using.
+- tools that i have used are (Pandas, Numpy, seaborn, sklearn, category_encoders, streamlit, joblib, imblearn )
 
 
 ## files Description
-- first file (Data Analysis And machine learning project files) is resposible for the whole poject (data analysis and modeling with eployment)
-- the all other files is the web app files (html, css,..etc)
+- (h5) --> extension files is about the saved models and instances and also features_names that the model had trained on.
+- (ipynb) --> notebokks (EDA, Buisness Analytics, modeling phase, deployment)
+- (csv) --> dataset
 
 ## youtube videos
-https://www.youtube.com/watch?v=E_rj_ckSLow&list=PLCGweKdBhoY7nJyRlSZ-AmFLmjfi15eoZ
+https://www.youtube.com/watch?v=R5PLNKu2nO4&t=3265s
 
