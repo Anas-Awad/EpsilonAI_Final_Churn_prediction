@@ -17,9 +17,8 @@ in the data provides relavant information about the patient.
 
 
 ## files Description
-- (h5) --> extension files is about the saved models and instances and also features_names that the model had trained on.
-- (ipynb) --> notebokks (EDA, Buisness Analytics, modeling phase, deployment)
-- (csv) --> dataset
+- (h5) --> extension files is about the saved models and instances and also features_names that the model had trained on (located in models-deployement folder).
+- (csv) --> datasets existed in both folders each data for its phase
 
 ## youtube videos
 https://www.youtube.com/watch?v=R5PLNKu2nO4&t=3265s
